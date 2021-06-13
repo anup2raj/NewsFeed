@@ -1,0 +1,18 @@
+body{
+    margin: 0px 5%;
+}
+
+.navbar{
+    margin-bottom: 50px;
+}
+
+hr{
+    position: absolute;
+    left: 0px;
+    top: 40px;
+    width: 100%;
+}
+
+.card-header{
+    background-color: white;
+}
